@@ -13,3 +13,11 @@ C:\Users\biels\Documents\Northcoders\Week_2\Wednesday13th\Animals\Animals\obj\De
 C:\Users\biels\Documents\Northcoders\Week_2\Wednesday13th\Animals\Animals\obj\Debug\net8.0\Animals.pdb
 C:\Users\biels\Documents\Northcoders\Week_2\Wednesday13th\Animals\Animals\obj\Debug\net8.0\Animals.genruntimeconfig.cache
 C:\Users\biels\Documents\Northcoders\Week_2\Wednesday13th\Animals\Animals\obj\Debug\net8.0\ref\Animals.dll
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\obj\Debug\net8.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\obj\Debug\net8.0\Animals.AssemblyInfoInputs.cache
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\obj\Debug\net8.0\Animals.AssemblyInfo.cs
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\obj\Debug\net8.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\obj\Debug\net8.0\Animals.sourcelink.json
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\obj\Debug\net8.0\Animals.dll
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\obj\Debug\net8.0\refint\Animals.dll
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\obj\Debug\net8.0\Animals.pdb

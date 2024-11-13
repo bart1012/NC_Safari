@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Animals.Birds
 {
-    public class Penguin : Bird, IMove
+    public class Penguin : Bird, IHunt, ISwim
     {
         public Penguin(float weight) : base(weight)
         {

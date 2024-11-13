@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Animals.Interfaces
 {
-    internal interface ISwim
+    internal interface IHunt
     {
     }
 }

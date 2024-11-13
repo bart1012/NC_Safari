@@ -7,7 +7,7 @@ using Animals.Interfaces;
 
 namespace Animals.Mammals
 {
-    internal class Tiger : Panthera, IMove
+    internal class Tiger : Panthera, IHunt
     {
         public Tiger(float weight) : base(weight)
         {
