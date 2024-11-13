@@ -9,5 +9,9 @@ namespace Animals.SafariEnvironment
 {
     internal class HuntingGround : SafariEnvironment<IHunt>
     {
+        public override void CheckAnimalsInEnvironment()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

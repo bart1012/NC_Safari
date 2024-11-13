@@ -9,5 +9,9 @@ namespace Animals.SafariEnvironment
 {
     internal class Water : SafariEnvironment<ISwim>
     {
+        public override void CheckAnimalsInEnvironment()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
