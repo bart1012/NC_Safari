@@ -6,9 +6,13 @@ using System.Threading.Tasks;
 
 namespace Animals.Mammals
 {
-    internal class Panthera
+    internal class Panthera : Mammal
     {
-        public void MakeSound()
+        public Panthera(float weight) : base(weight)
+        {
+
+        }
+        public override void MakeSound()
         {
             Console.WriteLine(this.GetType().Name + " roars!");
         }
