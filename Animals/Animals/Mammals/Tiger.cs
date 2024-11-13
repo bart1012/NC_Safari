@@ -14,9 +14,9 @@ namespace Animals.Mammals
 
         }
 
-        public void Move() 
+        public void Hunt()
         {
-            Console.WriteLine("Tiger is moving!");
+            Console.WriteLine("Tiger is hunting on land!");
         }
     }
 }

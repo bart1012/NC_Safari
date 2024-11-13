@@ -21,3 +21,10 @@ C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animal
 C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\obj\Debug\net8.0\Animals.dll
 C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\obj\Debug\net8.0\refint\Animals.dll
 C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\obj\Debug\net8.0\Animals.pdb
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\bin\Debug\net8.0\Animals.exe
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\bin\Debug\net8.0\Animals.deps.json
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\bin\Debug\net8.0\Animals.runtimeconfig.json
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\bin\Debug\net8.0\Animals.dll
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\bin\Debug\net8.0\Animals.pdb
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\obj\Debug\net8.0\Animals.genruntimeconfig.cache
+C:\Users\josep\Documents\Northcoders\fundamentals\cs-interfaces\NC_Safari\Animals\Animals\obj\Debug\net8.0\ref\Animals.dll

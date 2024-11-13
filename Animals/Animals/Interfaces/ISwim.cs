@@ -8,5 +8,6 @@ namespace Animals.Interfaces
 {
     public interface ISwim
     {
+        void Swim();
     }
 }

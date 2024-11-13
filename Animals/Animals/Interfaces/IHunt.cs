@@ -8,5 +8,6 @@ namespace Animals.Interfaces
 {
     internal interface IHunt
     {
+        void Hunt();
     }
 }
