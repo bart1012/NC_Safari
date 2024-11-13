@@ -15,12 +15,12 @@ namespace Animals.Birds
 
         public override void MakeSound()
         {
-            Console.WriteLine("Squeek!");
+            Console.WriteLine(this.GetType().Name + " squeeks!");
         }
 
         public void Move()
         {
-            Console.WriteLine("Penguin is moving.");
+            Console.WriteLine("Penguin is moving!");
         }
     }
 }

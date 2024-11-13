@@ -1,10 +1,20 @@
-﻿namespace Animals
+﻿using Animals.Birds;
+using Animals.Mammals;
+
+namespace Animals
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Tiger fluffy = new Tiger(70.5f);
+            Penguin penny = new Penguin(21);
+
+            fluffy.Move();
+            penny.Move();
+
+            fluffy.MakeSound();
+            penny.MakeSound();
         }
     }
 }
