@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\josep\\.nuget\\packages\\": {}
+    "C:\\Users\\biels\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josep\\Documents\\Northcoders\\fundamentals\\cs-interfaces\\NC_Safari\\Animals\\Animals\\Animals.csproj",
+      "projectUniqueName": "C:\\Users\\biels\\Documents\\Northcoders\\Week_2\\Wednesday13th\\Animals\\Animals\\Animals.csproj",
       "projectName": "Animals",
-      "projectPath": "C:\\Users\\josep\\Documents\\Northcoders\\fundamentals\\cs-interfaces\\NC_Safari\\Animals\\Animals\\Animals.csproj",
-      "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josep\\Documents\\Northcoders\\fundamentals\\cs-interfaces\\NC_Safari\\Animals\\Animals\\obj\\",
+      "projectPath": "C:\\Users\\biels\\Documents\\Northcoders\\Week_2\\Wednesday13th\\Animals\\Animals\\Animals.csproj",
+      "packagesPath": "C:\\Users\\biels\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\biels\\Documents\\Northcoders\\Week_2\\Wednesday13th\\Animals\\Animals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\biels\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

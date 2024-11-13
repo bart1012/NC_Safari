@@ -13,6 +13,11 @@ namespace Animals.Mammals
         {
         }
 
+        public void Fly()
+        {
+            Console.WriteLine("Bat is flying.");
+        }
+
         public void Hunt()
         {
             Console.WriteLine("Bat is hunting in the air.");
